@@ -26,6 +26,14 @@ A Chrome extension built to automate and simplify tasks on the ETA portal.
 This project demonstrates practical experience with Chrome APIs, content scripts, DOM manipulation, and extension architecture.
 
 ---
+## 🔧 Installation (Developer Mode)
+
+1. Download the project as ZIP  
+2. Extract the folder  
+3. Open Chrome → Extensions  
+4. Enable **Developer Mode**  
+5. Click **Load unpacked**  
+6. Select the extracted folder  
 
 ## 🚀 Features
 - Automates repetitive actions on the ETA portal  
