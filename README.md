@@ -52,6 +52,10 @@ This project demonstrates practical experience with Chrome APIs, content scripts
 - `icons/` – Extension icons  
 
 ---
+## ❓ Why this project?
+
+This extension was built to simplify daily work on the ETA portal by automating repetitive actions and improving productivity.  
+It demonstrates real experience with Chrome Extensions, JavaScript, and DOM manipulation.
 
 ## 🛠️ Technologies Used
 - JavaScript  
@@ -70,6 +74,14 @@ This project demonstrates practical experience with Chrome APIs, content scripts
 6. Select the extracted folder  
 
 ---
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.  
+Feel free to check the **Issues** tab to report bugs or suggest improvements.
+## 📄 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this extension.
 
 ## 📬 Contact
 If you want to see more projects or contact me:  
