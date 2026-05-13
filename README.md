@@ -5,6 +5,12 @@
 <p align="center">
   <img src="https://github.com/maheraldarra2/eta-chrome-extension/blob/main/Screenshot%202026-05-13%20130953.png" alt="ETA Chrome Extension Screenshot" width="600">
 </p>
+## 🧰 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 A Chrome extension designed to automate and simplify tasks on the ETA portal.   It enhances productivity by extracting data, interacting with page elements, and providing quick-access tools through a clean popup interface.   The extension includes content scripts, background logi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
